@@ -6,4 +6,4 @@ This repository was meant to be the blueprints for the Hedonistic Imperative i.e
 
 But then I got extremely sick and I had to put this project into hiatus.
 
-I made new Hedonistic Imperative repositories on another Github account I owned: https://github.com/Hed0nium
+I made new Hedonistic Imperative repositories on another Github account I own: https://github.com/Hed0nium
